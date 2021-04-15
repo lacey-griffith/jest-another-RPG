@@ -1,5 +1,4 @@
-//const { expect, test } = require('@jest/globals');
-const { test, expect } = require('@jest/globals');
+const { expect, test } = require('@jest/globals');
 const Player = require('../lib/Player');
 
 const Potion = require('../lib/Potion');
